@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="164d4ebb-e19a-4eda-8f01-91f786ed9abd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bT5ZJscLGJU8AyfSC5d3MlrK9u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javafx-sdk-13.0.2/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ElectronicStoreApp" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ElectronicStoreApp" />
+      <module name="ElectronicStoreApp" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\Bubble\Downloads\javafx-sdk-13.0.2\lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="164d4ebb-e19a-4eda-8f01-91f786ed9abd" name="Default Changelist" comment="" />
+      <created>1588643297042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588643297042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="179" key="#ElectronicStoreApp" timestamp="1588644749410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="179" key="#ElectronicStoreApp/0.0.1920.1040@0.0.1920.1040" timestamp="1588644749410" />
+    <state x="677" y="179" key="#ElectronicStoreApplication" timestamp="1588644024685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="179" key="#ElectronicStoreApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1588644024685" />
+    <state x="340" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588644157899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588644157899" />
+    <state x="615" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588643759742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588643759742" />
+    <state x="687" y="330" key="FileChooserDialogImpl" timestamp="1588643579112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588643579112" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588644805946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588644805946" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588644805946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588644805946" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588644805946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588644805946" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588644805946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588644805946" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1588643964686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588643964686" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588644737513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588644737513" />
+  </component>
+</project>
